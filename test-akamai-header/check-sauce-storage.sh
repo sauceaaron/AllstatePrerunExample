@@ -1,0 +1,1 @@
+curl -u $SAUCE_USERNAME:$SAUCE_ACCESS_KEY https://saucelabs.com/rest/v1/storage/$SAUCE_USERNAME

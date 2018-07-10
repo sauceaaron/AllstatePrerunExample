@@ -1,0 +1,15 @@
+{
+  "name": "test-akamai-header",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node set-akamai-in-hosts.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webdriverio": "^4.13.1"
+  }
+}
