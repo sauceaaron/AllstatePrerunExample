@@ -9,9 +9,11 @@ see documentation on using extended debuggin here:
 https://wiki.saucelabs.com/pages/viewpage.action?pageId=70072943#DebuggingTestswithJavaScriptConsoleLogsandHARFiles(ExtendedDebugging)-extendedDebuggingCapability
 
 You can run the Java example with:
+
 	mvn clean test
 
 You can run the Javascript example with:
+
 	npm install && npm test
 
 The Java example does, but the Javascript example does not upload the prerun executables directly. 
