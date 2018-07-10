@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d96e0a5d-8f45-44e5-85a9-df708fc155f1" name="Default" comment="">
-      <change beforePath="" afterPath="/private/tmp/AllstatePrerunExample/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/compiler.xml" afterPath="/private/tmp/AllstatePrerunExample/.idea/compiler.xml" />
+      <change beforePath="" afterPath="/private/tmp/AllstatePrerunExample/upload-to-sauce-storage.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload-to-sauce-storage.sh" />
       <change beforePath="/private/tmp/AllstatePrerunExample/.idea/workspace.xml" afterPath="/private/tmp/AllstatePrerunExample/.idea/workspace.xml" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/AllstatePrerunExample.iml" afterPath="/private/tmp/AllstatePrerunExample/AllstatePrerunExample.iml" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/pom.xml" afterPath="/private/tmp/AllstatePrerunExample/pom.xml" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/src/test/java/SetAkamaiInHosts.java" afterPath="/private/tmp/AllstatePrerunExample/src/test/java/SetAkamaiInHosts_Test.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/AllstatePrerunExample.iml" afterPath="$PROJECT_DIR$/AllstatePrerunExample.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SetAkamaiInHosts.java" afterPath="$PROJECT_DIR$/src/test/java/SetAkamaiInHosts_Test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,11 +18,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
               <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="check-sauce-storage.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/check-sauce-storage.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload-to-sauce-storage.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/upload-to-sauce-storage.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="66" lean-forward="true" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -93,6 +105,7 @@
         <option value="$PROJECT_DIR$/src/main/java/SetAkamaiInHosts.java" />
         <option value="$PROJECT_DIR$/src/test/java/SetAkamaiInHosts.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/upload-to-sauce-storage.sh" />
       </list>
     </option>
   </component>
@@ -422,6 +435,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check-sauce-storage.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload-to-sauce-storage.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="66" lean-forward="true" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
           <folding />
         </state>
       </provider>
