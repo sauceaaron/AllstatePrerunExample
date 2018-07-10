@@ -8,7 +8,7 @@ import java.io.File;
 import java.io.IOException;
 import java.net.URL;
 
-public class SetAkamaiInHosts
+public class SetAkamaiInHosts_Test
 {
 	@Test
 	public void test() throws IOException, InterruptedException
@@ -19,7 +19,7 @@ public class SetAkamaiInHosts
 
 		// upload prerun executable
 		SauceREST api = new SauceREST(SAUCE_USERNAME, SAUCE_ACCESS_KEY);
-		ClassLoader loader = SetAkamaiInHosts.class.getClassLoader();
+		ClassLoader loader = SetAkamaiInHosts_Test.class.getClassLoader();
 		File prerun = new File(loader.getResource("set-akamai-in-hosts-windows.bat").getFile());
 		api.uploadFile(prerun);
 		Thread.sleep(30000);

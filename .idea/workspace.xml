@@ -2,48 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d96e0a5d-8f45-44e5-85a9-df708fc155f1" name="Default" comment="">
-      <change beforePath="" afterPath="/private/tmp/AllstatePrerunExample/src/test/java/SetAkamaiInHosts.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/SetAkamaiInHosts.java" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterPath="" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" afterPath="" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterPath="" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__com_google_guava_guava_23_6_jre.xml" afterPath="" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterPath="" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" afterPath="" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterPath="" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterPath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__junit_junit_4_10.xml" afterPath="" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_9.xml" afterPath="" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterPath="" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterPath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterPath="" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterPath="" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterPath="" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_11_0.xml" afterPath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_5_3_0.xml" />
-      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_11_0.xml" afterPath="" />
+      <change beforePath="" afterPath="/private/tmp/AllstatePrerunExample/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="/private/tmp/AllstatePrerunExample/.idea/compiler.xml" afterPath="/private/tmp/AllstatePrerunExample/.idea/compiler.xml" />
       <change beforePath="/private/tmp/AllstatePrerunExample/.idea/workspace.xml" afterPath="/private/tmp/AllstatePrerunExample/.idea/workspace.xml" />
       <change beforePath="/private/tmp/AllstatePrerunExample/AllstatePrerunExample.iml" afterPath="/private/tmp/AllstatePrerunExample/AllstatePrerunExample.iml" />
       <change beforePath="/private/tmp/AllstatePrerunExample/pom.xml" afterPath="/private/tmp/AllstatePrerunExample/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_6_jre.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_9.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_11_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_5_3_0.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_11_0.xml" afterPath="" />
+      <change beforePath="/private/tmp/AllstatePrerunExample/src/test/java/SetAkamaiInHosts.java" afterPath="/private/tmp/AllstatePrerunExample/src/test/java/SetAkamaiInHosts_Test.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/AllstatePrerunExample.iml" afterPath="$PROJECT_DIR$/AllstatePrerunExample.iml" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SetAkamaiInHosts.java" afterPath="$PROJECT_DIR$/src/test/java/SetAkamaiInHosts_Test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,8 +29,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+            <state relative-caret-position="110">
+              <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -76,8 +46,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SetAkamaiInHosts.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SetAkamaiInHosts.java">
+      <file leaf-file-name="SetAkamaiInHosts_Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SetAkamaiInHosts_Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="738">
               <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
@@ -438,7 +408,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SetAkamaiInHosts.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/SetAkamaiInHosts_Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="738">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
@@ -450,8 +420,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        <state relative-caret-position="110">
+          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
           <folding />
         </state>
       </provider>
