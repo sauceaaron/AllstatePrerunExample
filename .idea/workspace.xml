@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d96e0a5d-8f45-44e5-85a9-df708fc155f1" name="Default" comment="">
-      <change beforePath="" afterPath="/private/tmp/AllstatePrerunExample/upload-to-sauce-storage.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/upload-to-sauce-storage.sh" />
+      <change beforePath="" afterPath="/private/tmp/AllstatePrerunExample/upload-to-sauce-storage.bat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/check-sauce-storage.bat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload-to-sauce-storage.bat" />
       <change beforePath="/private/tmp/AllstatePrerunExample/.idea/workspace.xml" afterPath="/private/tmp/AllstatePrerunExample/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -38,11 +39,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="upload-to-sauce-storage.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="upload-to-sauce-storage.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/upload-to-sauce-storage.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="66" lean-forward="true" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload-to-sauce-storage.bat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload-to-sauce-storage.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="102" lean-forward="false" selection-start-line="0" selection-start-column="102" selection-end-line="0" selection-end-column="102" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="check-sauce-storage.bat" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/check-sauce-storage.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="98" lean-forward="false" selection-start-line="0" selection-start-column="98" selection-end-line="0" selection-end-column="98" />
               <folding />
             </state>
           </provider>
@@ -106,6 +127,8 @@
         <option value="$PROJECT_DIR$/src/test/java/SetAkamaiInHosts.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/upload-to-sauce-storage.sh" />
+        <option value="$PROJECT_DIR$/upload-to-sauce-storage.bat" />
+        <option value="$PROJECT_DIR$/check-sauce-storage.bat" />
       </list>
     </option>
   </component>
@@ -200,6 +223,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
@@ -449,8 +473,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/upload-to-sauce-storage.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="66" lean-forward="true" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload-to-sauce-storage.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="102" lean-forward="false" selection-start-line="0" selection-start-column="102" selection-end-line="0" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check-sauce-storage.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="98" lean-forward="false" selection-start-line="0" selection-start-column="98" selection-end-line="0" selection-end-column="98" />
           <folding />
         </state>
       </provider>
